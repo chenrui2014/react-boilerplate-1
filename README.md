@@ -4,7 +4,7 @@
 [![Build Status](https://circleci.com/gh/jgunnison/react-boilerplate.svg?style=shield)](https://circleci.com/gh/jgunnison/react-boilerplate)
 [![dependencies Status](https://david-dm.org/jgunnison/react-boilerplate/status.svg)](https://david-dm.org/jgunnison/react-boilerplate)
 [![devDependencies Status](https://david-dm.org/jgunnison/react-boilerplate/dev-status.svg)](https://david-dm.org/jgunnison/react-boilerplate?type=dev)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjgunnison%2Freact-boilerplate.svg?type=shield)](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjgunnison%2Freact-boilerplate.svg?type=shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjgunnison%2Freact-boilerplate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjgunnison%2Freact-boilerplate?ref=badge_shield)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/d20-compendium?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
