@@ -196,7 +196,9 @@ To run [Yarn Offline](https://yarnpkg.com/blog/2016/11/24/offline-mirror/) just 
 - [Prismic.io - CMS](https://prismic.io/) ($7 - $15/month)
 
 ### Testing Services
-- [Ghost Inspector](https://ghostinspector.com/) (71/month)
+- [Ghost Inspector](https://ghostinspector.com/) ($71/month)
+- [Percy: Visual Testing](https://percy.io/) ($149/month)
+- (Sauce Labs: Cross Browser Testing)[https://saucelabs.com/] ($149/month)
 
 ### Video Hosting
 - [Vimeo](https://vimeo.com/) ($7/month)
