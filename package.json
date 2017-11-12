@@ -96,7 +96,7 @@
     "imagemin-webpack-plugin": "^1.5.2",
     "jest": "^21.2.1",
     "jest-cli": "^21.2.1",
-    "node-sass": "^4.6.0",
+    "node-sass": "^4.6.1",
     "postcss-import": "^11.0.0",
     "postcss-loader": "^2.0.8",
     "prompt": "^1.0.0",
